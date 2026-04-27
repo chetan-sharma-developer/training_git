@@ -8,3 +8,4 @@ lion
 lino
 elephant
 tiger
+cheetah
